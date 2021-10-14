@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780557231519",
+    "firebase_url": "https://iot-multimeter-default-rtdb.firebaseio.com",
+    "project_id": "iot-multimeter",
+    "storage_bucket": "iot-multimeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780557231519:android:466fc1dcbaf94cb86809aa",
+        "android_client_info": {
+          "package_name": "com.hanium.charttest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780557231519-f841qjb906eeinji4nt5ndfb1aqnv56q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNwKb2EbB4IGvYX7JUTltdg_t45byKDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780557231519-f841qjb906eeinji4nt5ndfb1aqnv56q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780557231519-ibs8cgui5q7tb9b0rkog5etp54e6eu1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanium.chartfirebasetest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
